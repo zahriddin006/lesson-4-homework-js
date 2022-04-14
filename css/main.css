@@ -1,0 +1,16 @@
+output p {
+  display: none;
+}
+
+body{
+  background-image: linear-gradient(to right , #007991 , #78ffd6);
+}
+
+input[type="checkbox"] {
+  background-color: transparent;
+  width: 24px;
+  height: 24px;
+}
+label {
+  cursor: pointer;
+}
