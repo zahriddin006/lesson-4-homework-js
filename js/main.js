@@ -23,4 +23,3 @@ btn.addEventListener("click", function(evt){
   elOutput.textContent = answer;
   elOutput.setAttribute( 'style', 'font-size: 24px ; color: white !important; margin-left:40px');
 })
-
